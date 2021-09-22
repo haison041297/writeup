@@ -17,7 +17,10 @@ class ListNode:
     def __str__(self):
         return str(self.val)
         
-def printLinkedList(m_head): while m_head != None: print(m_head.val) m_head = m_head.next
+def printLinkedList(m_head):
+    while m_head != None:
+        print(m_head.val)
+        m_head = m_head.next
 ```
 
 Creating a Linked List using a series of `ListNode` objects
