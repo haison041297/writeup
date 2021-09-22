@@ -105,7 +105,7 @@ Checking if `e1`, `e2`, and `e3` changed due to incrementing values in the Linke
 ```python
 print(e1)
 print(e2)
-print(e3)
+print(e3) 
 ```
 Output:
 ```
